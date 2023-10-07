@@ -8,41 +8,41 @@
 
 ## Work Experience
 
-**Engineering Intern @ Rivian, Self Driving, ADAS Team (_June 2023 - Sep 2023_)++
+**Engineering Intern @ Rivian, Self Driving, ADAS Team (_June 2023 - Sep 2023_)**
 
-- **Sensor Fusion | Implemented factor graph-based vehicle state estimation using IMU and Wheel Odometry sensors to perform robust ego-pose estimation.
+- **Sensor Fusion** | Implemented factor graph-based vehicle state estimation using IMU and Wheel Odometry sensors to perform robust ego-pose estimation.
 
-- **Simulation | Performed data generation using Carla for validation of pose estimation algorithms.
+- **Simulation** | Performed data generation using Carla for validation of pose estimation algorithms.
 
-- **Evaluation | Evaluated and showcased the benefits of using Factor Graph against EKF for sensor fusion.
+- **Evaluation** | Evaluated and showcased the benefits of using Factor Graph against EKF for sensor fusion.
 
-**Computer Vision and Analytics Programmer @ Qualcomm Institute - UC San Diego Division of Calit2, Dronelab (_Jan 2023 - June 2023_)++
+**Computer Vision and Analytics Programmer @ Qualcomm Institute - UC San Diego Division of Calit2, Dronelab (_Jan 2023 - June 2023_)**
 
-- **3D reconstruction | Worked on using NeRF to reconstruct the scene and compared it's accuracy with colmap and Artec Leo 3D scanner.
+- **3D reconstruction** | Worked on using NeRF to reconstruct the scene and compared it's accuracy with colmap and Artec Leo 3D scanner.
 
-- **NeRF | Developed a unique NeRF model to perform 3D reconstruction for layered (sliced) models eg. 3D printing
+- **NeRF** | Developed a unique NeRF model to perform 3D reconstruction for layered (sliced) models eg. 3D printing
 
-- **Human Pose Estimation | Developing a modular IMU-based human pose tracking solution to perform gait analysis of people with transtibial prostheses. This will help to validate the efficacy of prostheses being used.
+- **Human Pose Estimation** | Developing a modular IMU-based human pose tracking solution to perform gait analysis of people with transtibial prostheses. This will help to validate the efficacy of prostheses being used.
 
-**Senior Systems Software Engineer @ Nvidia Corporation, Mapping Team, Pune, India (_March 2022 - June 2022_)++
+**Senior Systems Software Engineer @ Nvidia Corporation, Mapping Team, Pune, India (_March 2022 - June 2022_)**
 
 Implemented Checks and fixed bugs in the validation pipeline to ensure maps being created are correct and appropriate flags are raised if any issue is found. 
 
-**Robotics Software Engineer @ Vimaan, Autonomy Team (_Feb 2020 - March 2022_)++
+**Robotics Software Engineer @ Vimaan, Autonomy Team (_Feb 2020 - March 2022_)**
 
-- **Sensor Fusion | Implemented 13-state Quaternion-based Error-State Extended Kalman filter to fuse odometry and pose estimates using fiducial marker for Quadrotors.
+- **Sensor Fusion** | Implemented 13-state Quaternion-based Error-State Extended Kalman filter to fuse odometry and pose estimates using fiducial marker for Quadrotors.
 
-- **Navigation | Proposed and completed POC for unique semantic-based Visual localization Algorithms that output pose (err- upto 10cm) in global reference frame resulting in drift-free localization of an Autonomous Drone.
+- **Navigation** | Proposed and completed POC for unique semantic-based Visual localization Algorithms that output pose (err- upto 10cm) in global reference frame resulting in drift-free localization of an Autonomous Drone.
 
-- **Machine Learning | Trained and Optimized supervised Semantic Segmentation network using TensorRT to achieve about 4x performance boost on Jetson platform with marginal loss in accuracy.
+- **Machine Learning** | Trained and Optimized supervised Semantic Segmentation network using TensorRT to achieve about 4x performance boost on Jetson platform with marginal loss in accuracy.
 
-- Obstacle Avoidance and Simulation | Trained and Tested object detection network using AirSim + Unreal Engine 4. Moreover, SIL testing was done with Gazebo to validate the entire obstacle detection pipeline.
+- **Obstacle Avoidance and Simulation** | Trained and Tested object detection network using AirSim + Unreal Engine 4. Moreover, SIL testing was done with Gazebo to validate the entire obstacle detection pipeline.
 
-**Research Assistant @ IIIT Hyderabad, Robotics Research Center, Hyderabad, India(_Jan 2019 - March 2020_)++
+**Research Assistant @ IIIT Hyderabad, Robotics Research Center, Hyderabad, India(_Jan 2019 - March 2020_)**
 
-- Lidar-Camera Calibration | Developed a differentiable https://github.com/moloydas/line-based-lidar-camera-calibration. Line based Lidar-Camera extrinsic calibration method.
+- **Lidar-Camera Calibration** | Developed a differentiable https://github.com/moloydas/line-based-lidar-camera-calibration. Line based Lidar-Camera extrinsic calibration method.
 
-- Lidar SLAM | Configured LOAM(Ji Zhang et. al.) for Velodyne's VLP-16 Lidar and used it as an odometry source for an Autonomous Vehicle project. To improve Navigation Stack's robustness against highly dynamic environments (Case where LOAM fails), the odometry from LOAM was fused with GPS using an Extended Kalman filter.   
+- **Lidar SLAM** | Configured LOAM(Ji Zhang et. al.) for Velodyne's VLP-16 Lidar and used it as an odometry source for an Autonomous Vehicle project. To improve Navigation Stack's robustness against highly dynamic environments (Case where LOAM fails), the odometry from LOAM was fused with GPS using an Extended Kalman filter.   
 
 ## Projects
 
