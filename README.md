@@ -8,7 +8,8 @@
 
 ## Work Experience
 
-### **Engineering Intern @ Rivian, Self Driving, ADAS Team (_June 2023 - Sep 2023_)**
+### Engineering Intern @ Rivian
+#### Self Driving, ADAS Team (_June 2023 - Sep 2023_)
 
 - **Sensor Fusion** | Implemented factor graph-based vehicle state estimation using IMU and Wheel Odometry sensors to perform robust ego-pose estimation.
 
