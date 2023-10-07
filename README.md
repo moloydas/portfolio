@@ -46,7 +46,7 @@ Implemented Checks and fixed bugs in the validation pipeline to ensure maps bein
 
 ## Projects
 
-### Tighly Coupled VSLAM
+### Tighly Coupled Visual-Inertial SLAM
 ![Github Project Link](https://github.com/moloydas/visual_inertial_slam)
 
 EKF-based Visual Inertial Simultaneous Localization And Mapping (SLAM) is implemented using IMU data as odometry and a stereo camera as our measurement sensor. It is a popular algorithm where the robot trajectory and the mapping of the landmarks is done simultaneously. The landmarks here are essentially point-like features that are scale-invariant and rotation-invariant with favourable geometric characteristics (for eg corner). These features could be coming from any detectors and must be post processed to remove outliers. The accuracy of this Algorithm will get impacted if outliers are present.
