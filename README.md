@@ -1,6 +1,6 @@
 # Robotics Engineer
 
-### Techinical Skills: Python, C++, PyTorch, JAX, ROS, TensorRT
+#### Techinical Skills: Python, C++, PyTorch, JAX, ROS, TensorRT
 
 ## Education
 - M.S., ECE, Robotics specialization | University of California, San Diego (Dec 2023)
@@ -8,60 +8,73 @@
 
 ## Work Experience
 
-**Engineering Intern @ Rivian, Self Driving, ADAS Team (_June 2023 - Sep 2023_)++
+### **Engineering Intern @ Rivian, Self Driving, ADAS Team (_June 2023 - Sep 2023_)**
 
-- **Sensor Fusion | Implemented factor graph-based vehicle state estimation using IMU and Wheel Odometry sensors to perform robust ego-pose estimation.
+- **Sensor Fusion** | Implemented factor graph-based vehicle state estimation using IMU and Wheel Odometry sensors to perform robust ego-pose estimation.
 
-- **Simulation | Performed data generation using Carla for validation of pose estimation algorithms.
+- **Simulation** | Performed data generation using Carla for validation of pose estimation algorithms.
 
-- **Evaluation | Evaluated and showcased the benefits of using Factor Graph against EKF for sensor fusion.
+- **Evaluation** | Evaluated and showcased the benefits of using Factor Graph against EKF for sensor fusion.
 
-**Computer Vision and Analytics Programmer @ Qualcomm Institute - UC San Diego Division of Calit2, Dronelab (_Jan 2023 - June 2023_)++
+### **Computer Vision and Analytics Programmer @ Qualcomm Institute - UC San Diego Division of Calit2, Dronelab (_Jan 2023 - June 2023_)**
 
-- **3D reconstruction | Worked on using NeRF to reconstruct the scene and compared it's accuracy with colmap and Artec Leo 3D scanner.
+- **3D reconstruction** | Worked on using NeRF to reconstruct the scene and compared it's accuracy with colmap and Artec Leo 3D scanner.
 
-- **NeRF | Developed a unique NeRF model to perform 3D reconstruction for layered (sliced) models eg. 3D printing
+- **NeRF** | Developed a unique NeRF model to perform 3D reconstruction for layered (sliced) models eg. 3D printing
 
-- **Human Pose Estimation | Developing a modular IMU-based human pose tracking solution to perform gait analysis of people with transtibial prostheses. This will help to validate the efficacy of prostheses being used.
+- **Human Pose Estimation** | Developing a modular IMU-based human pose tracking solution to perform gait analysis of people with transtibial prostheses. This will help to validate the efficacy of prostheses being used.
 
-**Senior Systems Software Engineer @ Nvidia Corporation, Mapping Team, Pune, India (_March 2022 - June 2022_)++
+### **Senior Systems Software Engineer @ Nvidia Corporation, Mapping Team, Pune, India (_March 2022 - June 2022_)**
 
 Implemented Checks and fixed bugs in the validation pipeline to ensure maps being created are correct and appropriate flags are raised if any issue is found. 
 
-**Robotics Software Engineer @ Vimaan, Autonomy Team (_Feb 2020 - March 2022_)++
+### **Robotics Software Engineer @ Vimaan, Autonomy Team (_Feb 2020 - March 2022_)**
 
-- **Sensor Fusion | Implemented 13-state Quaternion-based Error-State Extended Kalman filter to fuse odometry and pose estimates using fiducial marker for Quadrotors.
+- **Sensor Fusion** | Implemented 13-state Quaternion-based Error-State Extended Kalman filter to fuse odometry and pose estimates using fiducial marker for Quadrotors.
 
-- **Navigation | Proposed and completed POC for unique semantic-based Visual localization Algorithms that output pose (err- upto 10cm) in global reference frame resulting in drift-free localization of an Autonomous Drone.
+- **Navigation** | Proposed and completed POC for unique semantic-based Visual localization Algorithms that output pose (err- upto 10cm) in global reference frame resulting in drift-free localization of an Autonomous Drone.
 
-- **Machine Learning | Trained and Optimized supervised Semantic Segmentation network using TensorRT to achieve about 4x performance boost on Jetson platform with marginal loss in accuracy.
+- **Machine Learning** | Trained and Optimized supervised Semantic Segmentation network using TensorRT to achieve about 4x performance boost on Jetson platform with marginal loss in accuracy.
 
-- Obstacle Avoidance and Simulation | Trained and Tested object detection network using AirSim + Unreal Engine 4. Moreover, SIL testing was done with Gazebo to validate the entire obstacle detection pipeline.
+- **Obstacle Avoidance and Simulation** | Trained and Tested object detection network using AirSim + Unreal Engine 4. Moreover, SIL testing was done with Gazebo to validate the entire obstacle detection pipeline.
 
-**Research Assistant @ IIIT Hyderabad, Robotics Research Center, Hyderabad, India(_Jan 2019 - March 2020_)++
+### **Research Assistant @ IIIT Hyderabad, Robotics Research Center, Hyderabad, India(_Jan 2019 - March 2020_)**
 
-- Lidar-Camera Calibration | Developed a differentiable https://github.com/moloydas/line-based-lidar-camera-calibration. Line based Lidar-Camera extrinsic calibration method.
+- **Lidar-Camera Calibration** | Developed a differentiable Line-based Lidar-Camera extrinsic calibration method. [Github Project Link](https://github.com/moloydas/line-based-lidar-camera-calibration).
 
-- Lidar SLAM | Configured LOAM(Ji Zhang et. al.) for Velodyne's VLP-16 Lidar and used it as an odometry source for an Autonomous Vehicle project. To improve Navigation Stack's robustness against highly dynamic environments (Case where LOAM fails), the odometry from LOAM was fused with GPS using an Extended Kalman filter.   
+- **Lidar SLAM** | Configured LOAM(Ji Zhang et. al.) for Velodyne's VLP-16 Lidar and used it as an odometry source for an Autonomous Vehicle project. To improve Navigation Stack's robustness against highly dynamic environments (Case where LOAM fails), the odometry from LOAM was fused with GPS using an Extended Kalman filter.   
 
 ## Projects
 
-### Tighly Coupled VSLAM
-![Github Project Link](https://github.com/moloydas/visual_inertial_slam)
+### Tightly Coupled Visual-Inertial SLAM
+[Github Project Link](https://github.com/moloydas/visual_inertial_slam)
+
+#### Summary:
+
 EKF-based Visual Inertial Simultaneous Localization And Mapping (SLAM) is implemented using IMU data as odometry and a stereo camera as our measurement sensor. It is a popular algorithm where the robot trajectory and the mapping of the landmarks is done simultaneously. The landmarks here are essentially point-like features that are scale-invariant and rotation-invariant with favourable geometric characteristics (for eg corner). These features could be coming from any detectors and must be post processed to remove outliers. The accuracy of this Algorithm will get impacted if outliers are present.
 
+#### Demo:
+
+https://user-images.githubusercontent.com/20353960/235547305-e9a99c28-2272-4d79-a80b-6af542087867.mp4
+
 ### Pose graph optimization
-![Github Project Link](https://github.com/moloydas/pose_graph_optimization_python)
+[Github Project Link](https://github.com/moloydas/pose_graph_optimization_python)
+
+#### Summary:
 
 Implemented the back-end of Graph Slam in python from scratch, that optimizes the odometry generated by using constraints from other sources like loop closure or GPS.
 
+#### Demo:
+
+https://user-images.githubusercontent.com/20353960/141079035-9f608603-7cac-4fa2-b209-a68a4b141ac8.gif
+
 ### Vibration Reduction using Input Shaping
-![Project Details](https://historical-rabbit-6b2.notion.site/Vibration-Reduction-for-Flexible-Structures-using-Input-Shaping-606b3e8c18bc48a49ce6a9670931d04b)
+[Github Project Link](https://historical-rabbit-6b2.notion.site/Vibration-Reduction-for-Flexible-Structures-using-Input-Shaping-606b3e8c18bc48a49ce6a9670931d04b)
 
 Input shaping can reduced the vibration in flexible structures (such as beams) while performing point-point motion and hence enabling the use of light weight materials in robotics.
 
 ### Eulerian Motion and Color Magnification
 
-![Project Link](https://github.com/moloydas/Eulerian_video_magnification_python)
+[Project Link](https://github.com/moloydas/Eulerian_video_magnification_python)
 
 Eulerian Video Magnification can amplify tiny motion and color changes. I implemented it from scratch in python and demonstrated color changes of my face due to blood flow.
