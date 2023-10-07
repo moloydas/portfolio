@@ -1,6 +1,6 @@
 # Robotics Engineer
 
-### Techinical Skills: Python, C++, PyTorch, JAX, ROS, TensorRT
+#### Techinical Skills: Python, C++, PyTorch, JAX, ROS, TensorRT
 
 ## Education
 - M.S., ECE, Robotics specialization | University of California, San Diego (Dec 2023)
@@ -40,7 +40,7 @@ Implemented Checks and fixed bugs in the validation pipeline to ensure maps bein
 
 **Research Assistant @ IIIT Hyderabad, Robotics Research Center, Hyderabad, India(_Jan 2019 - March 2020_)**
 
-- **Lidar-Camera Calibration** | Developed a differentiable https://github.com/moloydas/line-based-lidar-camera-calibration. Line based Lidar-Camera extrinsic calibration method.
+- **Lidar-Camera Calibration** | Developed a differentiable Line-based Lidar-Camera extrinsic calibration method. ![Github Project Link](https://github.com/moloydas/line-based-lidar-camera-calibration).
 
 - **Lidar SLAM** | Configured LOAM(Ji Zhang et. al.) for Velodyne's VLP-16 Lidar and used it as an odometry source for an Autonomous Vehicle project. To improve Navigation Stack's robustness against highly dynamic environments (Case where LOAM fails), the odometry from LOAM was fused with GPS using an Extended Kalman filter.   
 
