@@ -8,7 +8,7 @@
 
 ## Work Experience
 
-**Engineering Intern @ Rivian, Self Driving, ADAS Team (_June 2023 - Sep 2023_)**
+### **Engineering Intern @ Rivian, Self Driving, ADAS Team (_June 2023 - Sep 2023_)**
 
 - **Sensor Fusion** | Implemented factor graph-based vehicle state estimation using IMU and Wheel Odometry sensors to perform robust ego-pose estimation.
 
@@ -16,7 +16,7 @@
 
 - **Evaluation** | Evaluated and showcased the benefits of using Factor Graph against EKF for sensor fusion.
 
-**Computer Vision and Analytics Programmer @ Qualcomm Institute - UC San Diego Division of Calit2, Dronelab (_Jan 2023 - June 2023_)**
+### **Computer Vision and Analytics Programmer @ Qualcomm Institute - UC San Diego Division of Calit2, Dronelab (_Jan 2023 - June 2023_)**
 
 - **3D reconstruction** | Worked on using NeRF to reconstruct the scene and compared it's accuracy with colmap and Artec Leo 3D scanner.
 
@@ -24,11 +24,11 @@
 
 - **Human Pose Estimation** | Developing a modular IMU-based human pose tracking solution to perform gait analysis of people with transtibial prostheses. This will help to validate the efficacy of prostheses being used.
 
-**Senior Systems Software Engineer @ Nvidia Corporation, Mapping Team, Pune, India (_March 2022 - June 2022_)**
+### **Senior Systems Software Engineer @ Nvidia Corporation, Mapping Team, Pune, India (_March 2022 - June 2022_)**
 
 Implemented Checks and fixed bugs in the validation pipeline to ensure maps being created are correct and appropriate flags are raised if any issue is found. 
 
-**Robotics Software Engineer @ Vimaan, Autonomy Team (_Feb 2020 - March 2022_)**
+### **Robotics Software Engineer @ Vimaan, Autonomy Team (_Feb 2020 - March 2022_)**
 
 - **Sensor Fusion** | Implemented 13-state Quaternion-based Error-State Extended Kalman filter to fuse odometry and pose estimates using fiducial marker for Quadrotors.
 
@@ -38,7 +38,7 @@ Implemented Checks and fixed bugs in the validation pipeline to ensure maps bein
 
 - **Obstacle Avoidance and Simulation** | Trained and Tested object detection network using AirSim + Unreal Engine 4. Moreover, SIL testing was done with Gazebo to validate the entire obstacle detection pipeline.
 
-**Research Assistant @ IIIT Hyderabad, Robotics Research Center, Hyderabad, India(_Jan 2019 - March 2020_)**
+### **Research Assistant @ IIIT Hyderabad, Robotics Research Center, Hyderabad, India(_Jan 2019 - March 2020_)**
 
 - **Lidar-Camera Calibration** | Developed a differentiable Line-based Lidar-Camera extrinsic calibration method. ![Github Project Link](https://github.com/moloydas/line-based-lidar-camera-calibration).
 
